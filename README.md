@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi, I'm Mauricio 👋
 
-<!--
-**Mauricio-Cardozo/Mauricio-Cardozo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build automation tools that eliminate manual data work for
+e-commerce and small businesses.
 
-Here are some ideas to get you started:
+**What I do:**
+- 🕷️ Web scraping & price monitoring (Playwright, httpx)
+- 📄 Data extraction from PDFs, Excel, and APIs
+- 🔗 AI-powered data enrichment (OpenAI, Gemini)
+- 🗄️ Clean data pipelines → SQLite / Google Sheets / CSV
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Currently building:** My automation portfolio — 3 real tools,
+real use cases, production-ready code.
+
+📫 mauricionair2004@gmail.com
